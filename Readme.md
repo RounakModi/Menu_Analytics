@@ -8,7 +8,7 @@
 
 
 # **Restaurant**:
-> ### restaurant_signup ***(sudip) done***
+> ### restaurant_signup ******
 - id
 - username
 - name
@@ -17,11 +17,11 @@
 - address
 - password\
 (show signup successful)
-> ### restaurant_signin ***(sudip) done***
+> ### restaurant_signin ******
   - email
   - password
   (show signed in successfully)
- >### add_items ***(Tuhin)***
+ >### add_items ******
   - item name
   - item description
   - item price
@@ -29,12 +29,12 @@
   - item quantity
   - ForeignKey('restaurant_signup.id')
     (items added successfully)
-> ### get_customer_ordered_dishes ***(Tuhin)***
+> ### get_customer_ordered_dishes ******
   - restaurant_id\
   (show order details of current restaurant)
 
 # **User**:
-> ### customer_signup ***(subhajit)***
+> ### customer_signup ******
   - id
   - name
   - email
@@ -42,15 +42,15 @@
   - address
   - password\
   (signup successful)
->### customer_signin ***(Rounak)***
+>### customer_signin ******
   - username
   - password\
   (signed in successfully)
-> ### choose_restaurant ***(sayan)***
+> ### choose_restaurant ******
   - restaurant_name\
   (if restaurant_name not match --> restaurant not available)\
   (if restaurant_name matched --> show available dishes and its rating)
-> ### choose_dishes_place_order ***(subhajit)***
+> ### choose_dishes_place_order ******
   - restaurant_name
   - dish_name
   - quantity
