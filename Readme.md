@@ -2,7 +2,7 @@
 
 
 <!-- ![plot](https://www.figma.com/file/ogSnH6FFEPdbrcnjvXsSHW/Untitled-(Copy)?node-id=0%3A1&t=rBa9SuUeaQ0GW2I1-0) -->
-![216312854-28c4a9f8-e3f0-4ae7-815c-2835b6f1c9e1](https://user-images.githubusercontent.com/85397106/231838203-f7971ef0-4ae4-4007-b616-b13ca31d731c.png)
+![216312854-28c4a9f8-e3f0-4ae7-815c-2835b6f1c9e1](https://user-images.githubusercontent.com/85397106/231838848-61912eb2-cd36-4ced-9d2a-f7bdd7dc6ea9.png)
 
 
 
