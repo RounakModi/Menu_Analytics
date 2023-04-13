@@ -74,7 +74,7 @@
 > ### delivery
 - restaurant_name\
   (it will be deleted the first order from the customer order table of the specific restaurant and show it's delivered order successfully)
-> ###  give_rating_feedback ***(sayan)***
+> ###  give_rating_feedback *****
   - restaurant_name
   - customer_name
   - item_name
